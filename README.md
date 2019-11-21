@@ -23,7 +23,7 @@ It is beneficial that you take advantage of the resources presented to you, but 
     #### Chromebook User Setup
       If you are using a Chromebook, great news! You can use Atom to follow along with the videos with some easy instructions:
       - [Instructions and setup for Atom for Chromebook Users](https://blog.atom.io/2018/10/02/running-atom-on-chome-os.html)
-      - [ATOM command-line Instructions](https://youtu.be/h5xcw8_8gaE)
+      - [Atom command-line Instructions](https://youtu.be/h5xcw8_8gaE)
 
     #### Windows User Setup
       If you are using Windows, and new to the command-line, I would recommend following additional instructions to avoid using the default shell, known as "PowerShell," in Atom since all of the examples in the modules will be using a Unix-based shell:
