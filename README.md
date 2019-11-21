@@ -16,16 +16,16 @@ It is beneficial that you take advantage of the resources presented to you, but 
 2. [Download, install and configure git](https://git-scm.com/). Windows users please install [Git for Windows](https://gitforwindows.org/).
 3. If you are new to Git, GitHub, and the command-line, I recommend [downloading Atom](https://atom.io/), a text editor, which is available for Mac, Linux, and Windows. I will be using Atom in all of the modules.
 
-    #### Mac and Linux Setup
+    #### Mac and Linux setup
       If you are using a Mac or Linux machine, I would recommend following these instructions to set up the Atom command-line:
       - [Atom command-line Instructions](https://youtu.be/h5xcw8_8gaE)
 
-    #### Chromebook User Setup
+    #### Chromebook setup
       If you are using a Chromebook, great news! You can use Atom to follow along with the videos with some easy instructions:
-      - [Instructions and setup for Atom for Chromebook Users](https://blog.atom.io/2018/10/02/running-atom-on-chome-os.html)
+      - [Instructions and setup for Atom for Chromebook users](https://blog.atom.io/2018/10/02/running-atom-on-chome-os.html)
       - [Atom command-line Instructions](https://youtu.be/h5xcw8_8gaE)
 
-    #### Windows User Setup
+    #### Windows setup
       If you are using Windows, and new to the command-line, I would recommend following additional instructions to avoid using the default shell, known as "PowerShell," in Atom since all of the examples in the modules will be using a Unix-based shell:
       - [Instructions and setup for using Atom in Windows](https://youtu.be/0aVAjhVZ9Ko)
     
